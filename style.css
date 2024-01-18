@@ -1,0 +1,84 @@
+div {
+    background-color: green;
+    font-size: small;
+    text-align: center;
+    color: aqua;
+    word-spacing: 20px;
+    height: 120px;
+    border: 2px solid green;
+}
+
+#A {
+    color: brown;
+    font-size: xx-large;
+}
+
+#b {
+    color: yellow;
+    font-size: xx-large;
+}
+
+#c {
+    color: chocolate;
+    font-size: xx-large;
+}
+
+#d {
+    color: gold;
+    font-size: xx-large large;
+}
+
+h1 {
+    background-color: aqua;
+    color: rgb(231, 16, 16);
+    font-weight: bold;
+    height: 70px;
+    padding-left: 30px;
+}
+
+p {
+    font-size: xx-large;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: yellow;
+
+}
+
+#zzz {
+    background-bcolor: brown;
+    text-decoration: none;
+    padding-right: 20px;
+}
+
+.from {
+    width: 400px;
+    height: 300px;
+    background-color: gray;
+}
+
+input {
+    background-color: aqua;
+}
+
+a {
+    color: fuchsia;
+    text-decoration: none;
+}
+
+
+.top {
+    margin-left: 90%;
+    background-color: rgba(178, 94, 122, 0.791);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 2.5em;
+    color: wheat;
+    position: fixed;
+    border-radius: 3px 25px 3px 25px;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+body {
+    background-color: rgb(102, 124, 184);
+}
